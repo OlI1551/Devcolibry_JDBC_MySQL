@@ -1,0 +1,13 @@
+# insert into users (name, lastName, age, email) values('Alex', 'Unknown', 22, 'alex@devcolibry.com');
+# insert into users (name, lastName, age, email) values('Anna', 'Smith', 21, 'anna@colibry.com');
+# insert into users (name, lastName, age, email) values('Jack', 'Newman', 21, 'jack123@gmail.com');
+# select * from users;
+# select * from users where id=1;
+# select name from users where id=2;
+# select name, age from users where id=1;
+# select * from users where name='Steve';
+# update users set name="Steve", age=23 where id=3;
+# delete from users;
+# delete from users where id=12;
+# delete from users where name='Alex';
+insert into users (name, lastName, age, email) values('Kate', 'Popova', 22, 'kate1552@gmail.com');
